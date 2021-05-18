@@ -1,4 +1,8 @@
-## Visualizing Change in the United States.
+## Visualizing Prosperity in the United States.
+#Inspiration
+"If you had to choose one moment in history in which to be born, and you didn't know in advance whether you were going to be male or female, which country you were going to be from, what your status was, you'd choose right now...[the world has never been] "healthier, or wealthier, or better educated, or in many ways more tolerant, or less violent, than it is today." 
+
+
 
 # Goals
 1.  Combine the growth and decay of world concerns to gain insight on the United States’ current overall position compared with the past. 
