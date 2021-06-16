@@ -1,145 +1,145 @@
 ,Year,Factor,Total,Score
-0,2017,Decrease in Cancer Deaths,94.95408992782072,8.070652247328084
-1,2016,Decrease in Cancer Deaths,96.30346123675608,8.468175782992581
-2,2015,Decrease in Cancer Deaths,94.8953085644427,9.716214790311357
-3,2014,Decrease in Cancer Deaths,92.7269181337592,9.39264912174723
-4,2013,Decrease in Cancer Deaths,84.90397794945298,8.86569931865708
-5,2012,Decrease in Cancer Deaths,77.50766220990637,7.931981246514885
-6,2011,Decrease in Cancer Deaths,65.33860199842249,6.702431705971203
-7,2010,Decrease in Cancer Deaths,66.39009222290423,6.083034569005588
-8,2009,Decrease in Cancer Deaths,44.087886689232754,3.9290116897072567
-9,2008,Decrease in Cancer Deaths,25.008167904327664,2.773420016263946
-10,2007,Decrease in Cancer Deaths,13.296708642927763,1.7564993436338323
-11,2006,Decrease in Cancer Deaths,0.0,-0.0
-12,2017,Decrease in Cancer Incidences,94.95408992782072,0.037187430149860076
-13,2016,Decrease in Cancer Incidences,96.30346123675608,0.1673434356743703
-14,2015,Decrease in Cancer Incidences,94.8953085644427,0.4648428768732509
-15,2014,Decrease in Cancer Incidences,92.7269181337592,0.5113271645605759
-16,2013,Decrease in Cancer Incidences,84.90397794945298,0.4741397344107159
-17,2012,Decrease in Cancer Incidences,77.50766220990637,0.3765227302673332
-18,2011,Decrease in Cancer Incidences,65.33860199842249,0.24171829597409042
-19,2010,Decrease in Cancer Incidences,66.39009222290423,0.23706986720535794
-20,2009,Decrease in Cancer Incidences,44.087886689232754,0.07437486029972015
-21,2008,Decrease in Cancer Incidences,25.008167904327664,0.1069138616808477
-22,2007,Decrease in Cancer Incidences,13.296708642927763,0.1069138616808477
-23,2006,Decrease in Cancer Incidences,0.0,-0.0
-24,2017,Decrease in Autism,94.95408992782072,1.0891743107924632
-25,2016,Decrease in Autism,96.30346123675608,1.2528326269219006
-26,2015,Decrease in Autism,94.8953085644427,2.009046915244129
-27,2014,Decrease in Autism,92.7269181337592,2.432301181096122
-28,2013,Decrease in Autism,84.90397794945298,2.5790293265914794
-29,2012,Decrease in Autism,77.50766220990637,2.5733859363801197
-30,2011,Decrease in Autism,65.33860199842249,2.3758672789825233
-31,2010,Decrease in Autism,66.39009222290423,2.4266577908847617
-32,2009,Decrease in Autism,44.087886689232754,1.6704435025625342
-33,2008,Decrease in Autism,25.008167904327664,1.1399648226947021
-34,2007,Decrease in Autism,13.296708642927763,0.6264163134609503
-35,2006,Decrease in Autism,0.0,0.0
-36,2017,Life Expectancy,94.95408992782072,1.1652834150459215
-37,2016,Life Expectancy,96.30346123675608,1.1934757557325164
-38,2015,Life Expectancy,94.8953085644427,1.2310655433146431
-39,2014,Life Expectancy,92.7269181337592,1.2404629902101747
-40,2013,Life Expectancy,84.90397794945298,1.2310655433146431
-41,2012,Life Expectancy,77.50766220990637,1.1746808619414533
-42,2011,Life Expectancy,65.33860199842249,1.0713089460906053
-43,2010,Life Expectancy,66.39009222290423,0.9209497957620993
-44,2009,Life Expectancy,44.087886689232754,0.7236034109559353
-45,2008,Life Expectancy,25.008167904327664,0.4980646854631762
-46,2007,Life Expectancy,13.296708642927763,0.2537310661793539
-47,2006,Life Expectancy,0.0,0.0
-48,2017,Decrease in Air Pollution,94.95408992782072,25.33546840594821
-49,2016,Decrease in Air Pollution,96.30346123675608,25.400550343137795
-50,2015,Decrease in Air Pollution,94.8953085644427,21.24460378260244
-51,2014,Decrease in Air Pollution,92.7269181337592,20.101021171985327
-52,2013,Decrease in Air Pollution,84.90397794945298,16.475027528565217
-53,2012,Decrease in Air Pollution,77.50766220990637,13.955426817368169
-54,2011,Decrease in Air Pollution,65.33860199842249,8.879035716580013
-55,2010,Decrease in Air Pollution,66.39009222290423,10.45959704832724
-56,2009,Decrease in Air Pollution,44.087886689232754,7.0474440556729325
-57,2008,Decrease in Air Pollution,25.008167904327664,4.481356246483315
-58,2007,Decrease in Air Pollution,13.296708642927763,2.872902655940549
-59,2006,Decrease in Air Pollution,0.0,0.0
-60,2017,Decrease in Vaccine Preventable Disease,94.95408992782072,15.55246966489624
-61,2016,Decrease in Vaccine Preventable Disease,96.30346123675608,17.316485474962512
-62,2015,Decrease in Vaccine Preventable Disease,94.8953085644427,20.18908002805209
-63,2014,Decrease in Vaccine Preventable Disease,92.7269181337592,21.152006089510287
-64,2013,Decrease in Vaccine Preventable Disease,84.90397794945298,21.071087933085227
-65,2012,Decrease in Vaccine Preventable Disease,77.50766220990637,21.289566955432885
-66,2011,Decrease in Vaccine Preventable Disease,65.33860199842249,19.89777466492188
-67,2010,Decrease in Vaccine Preventable Disease,66.39009222290423,18.951032234748695
-68,2009,Decrease in Vaccine Preventable Disease,44.087886689232754,15.244980670481018
-69,2008,Decrease in Vaccine Preventable Disease,25.008167904327664,11.571296368783361
-70,2007,Decrease in Vaccine Preventable Disease,13.296708642927763,7.395919497250344
-71,2006,Decrease in Vaccine Preventable Disease,0.0,-0.0
-72,2017,Decrease in Suicide,94.95408992782072,9.216730285618171
-73,2016,Decrease in Suicide,96.30346123675608,8.46434413985342
-74,2015,Decrease in Suicide,94.8953085644427,5.81705955290338
-75,2014,Decrease in Suicide,92.7269181337592,3.39967073271479
-76,2013,Decrease in Suicide,84.90397794945298,1.0101480660730422
-77,2012,Decrease in Suicide,77.50766220990637,-1.1007130651002803
-78,2011,Decrease in Suicide,65.33860199842249,-2.9259461224184666
-79,2010,Decrease in Suicide,66.39009222290423,-2.74481612436399
-80,2009,Decrease in Suicide,44.087886689232754,-4.904443024244287
-81,2008,Decrease in Suicide,25.008167904327664,-6.2350518561060175
-82,2007,Decrease in Suicide,13.296708642927763,-4.0475588026788785
-83,2006,Decrease in Suicide,0.0,0.0
-84,2017,Decrease in Death by Unsafe Drinking Water,94.95408992782072,24.74027473303959
-85,2016,Decrease in Death by Unsafe Drinking Water,96.30346123675608,23.73301267527722
-86,2015,Decrease in Death by Unsafe Drinking Water,94.8953085644427,21.219654016860634
-87,2014,Decrease in Death by Unsafe Drinking Water,92.7269181337592,19.358617452994917
-88,2013,Decrease in Death by Unsafe Drinking Water,84.90397794945298,17.372872253406243
-89,2012,Decrease in Death by Unsafe Drinking Water,77.50766220990637,15.885961596709405
-90,2011,Decrease in Death by Unsafe Drinking Water,65.33860199842249,14.274342304289611
-91,2010,Decrease in Death by Unsafe Drinking Water,66.39009222290423,14.965036286755238
-92,2009,Decrease in Death by Unsafe Drinking Water,44.087886689232754,8.278734817608829
-93,2008,Decrease in Death by Unsafe Drinking Water,25.008167904327664,2.148825723226393
-94,2007,Decrease in Death by Unsafe Drinking Water,13.296708642927763,-0.08633674780820329
-95,2006,Decrease in Death by Unsafe Drinking Water,0.0,-0.0
-96,2017,Decrease in Air Pollution,94.95408992782072,25.33546840594821
-97,2016,Decrease in Air Pollution,96.30346123675608,25.400550343137795
-98,2015,Decrease in Air Pollution,94.8953085644427,21.24460378260244
-99,2014,Decrease in Air Pollution,92.7269181337592,20.101021171985327
-100,2013,Decrease in Air Pollution,84.90397794945298,16.475027528565217
-101,2012,Decrease in Air Pollution,77.50766220990637,13.955426817368169
-102,2011,Decrease in Air Pollution,65.33860199842249,8.879035716580013
-103,2010,Decrease in Air Pollution,66.39009222290423,10.45959704832724
-104,2009,Decrease in Air Pollution,44.087886689232754,7.0474440556729325
-105,2008,Decrease in Air Pollution,25.008167904327664,4.481356246483315
-106,2007,Decrease in Air Pollution,13.296708642927763,2.872902655940549
-107,2006,Decrease in Air Pollution,0.0,0.0
-108,2017,Decrease in Death by Unsanitary Conditions,94.95408992782072,-8.77360078962251
-109,2016,Decrease in Death by Unsanitary Conditions,96.30346123675608,-8.816026325355693
-110,2015,Decrease in Death by Unsanitary Conditions,94.8953085644427,-6.355345252831005
-111,2014,Decrease in Death by Unsanitary Conditions,92.7269181337592,-4.081336537532327
-112,2013,Decrease in Death by Unsanitary Conditions,84.90397794945298,-2.961302394176263
-113,2012,Decrease in Death by Unsanitary Conditions,77.50766220990637,-2.6473534297506993
-114,2011,Decrease in Death by Unsanitary Conditions,65.33860199842249,-2.290978929591951
-115,2010,Decrease in Death by Unsanitary Conditions,66.39009222290423,-0.831540500370412
-116,2009,Decrease in Death by Unsanitary Conditions,44.087886689232754,-1.5018639649547236
-117,2008,Decrease in Death by Unsanitary Conditions,25.008167904327664,-0.9588171075699647
-118,2007,Decrease in Death by Unsanitary Conditions,13.296708642927763,-0.31394896442556375
-119,2006,Decrease in Death by Unsanitary Conditions,0.0,0.0
-120,2017,Decrease in HIV Incidences,94.95408992782072,-9.72445364023546
-121,2016,Decrease in HIV Incidences,96.30346123675608,-6.229896379707878
-122,2015,Decrease in HIV Incidences,94.8953085644427,-3.1984083401438888
-123,2014,Decrease in HIV Incidences,92.7269181337592,-0.6569121506692835
-124,2013,Decrease in HIV Incidences,84.90397794945298,1.4645910244429927
-125,2012,Decrease in HIV Incidences,77.50766220990637,3.090717823640728
-126,2011,Decrease in HIV Incidences,65.33860199842249,4.210699195273604
-127,2010,Decrease in HIV Incidences,66.39009222290423,4.846073242642255
-128,2009,Decrease in HIV Incidences,44.087886689232754,4.485310012356666
-129,2008,Decrease in HIV Incidences,25.008167904327664,3.160716659367782
-130,2007,Decrease in HIV Incidences,13.296708642927763,1.475360076093309
-131,2006,Decrease in HIV Incidences,0.0,-0.0
-132,2017,Decrease in TB Incidences,94.95408992782072,28.244903864860156
-133,2016,Decrease in TB Incidences,96.30346123675608,25.353163707267335
-134,2015,Decrease in TB Incidences,94.8953085644427,22.557494651255663
-135,2014,Decrease in TB Incidences,92.7269181337592,19.877110917141383
-136,2013,Decrease in TB Incidences,84.90397794945298,17.321619615082604
-137,2012,Decrease in TB Incidences,77.50766220990637,14.977484736502374
-138,2011,Decrease in TB Incidences,65.33860199842249,12.902348942349384
-139,2010,Decrease in TB Incidences,66.39009222290423,11.076998012307401
-140,2009,Decrease in TB Incidences,44.087886689232754,9.040290658786873
-141,2008,Decrease in TB Incidences,25.008167904327664,6.32147848404013
-142,2007,Decrease in TB Incidences,13.296708642927763,3.256810343601222
-143,2006,Decrease in TB Incidences,0.0,-0.0
+0,2017,Decrease in Cancer Deaths,-0.030199999999999998,-0.0047
+1,2016,Decrease in Cancer Deaths,0.008,-0.0151
+2,2015,Decrease in Cancer Deaths,0.018,0.0039
+3,2014,Decrease in Cancer Deaths,0.0927,0.0063
+4,2013,Decrease in Cancer Deaths,0.08369999999999998,0.011
+5,2012,Decrease in Cancer Deaths,0.14840000000000003,0.0144
+6,2011,Decrease in Cancer Deaths,-0.0154,0.0072
+7,2010,Decrease in Cancer Deaths,0.28359999999999996,0.0243
+8,2009,Decrease in Cancer Deaths,0.23890000000000003,0.0129
+9,2008,Decrease in Cancer Deaths,0.149,0.0112
+10,2007,Decrease in Cancer Deaths,0.15599999999999997,0.019
+11,2006,Decrease in Cancer Deaths,,
+12,2017,Decrease in Cancer Incidences,-0.030199999999999998,-0.0029
+13,2016,Decrease in Cancer Incidences,0.008,-0.0064
+14,2015,Decrease in Cancer Incidences,0.018,-0.001
+15,2014,Decrease in Cancer Incidences,0.0927,0.0008
+16,2013,Decrease in Cancer Incidences,0.08369999999999998,0.0021
+17,2012,Decrease in Cancer Incidences,0.14840000000000003,0.0029
+18,2011,Decrease in Cancer Incidences,-0.0154,0.0002
+19,2010,Decrease in Cancer Incidences,0.28359999999999996,0.0035
+20,2009,Decrease in Cancer Incidences,0.23890000000000003,-0.0008
+21,2008,Decrease in Cancer Incidences,0.149,-0.0
+22,2007,Decrease in Cancer Incidences,0.15599999999999997,0.0023
+23,2006,Decrease in Cancer Incidences,,
+24,2017,Decrease in Autism,-0.030199999999999998,-0.0029
+25,2016,Decrease in Autism,0.008,-0.014
+26,2015,Decrease in Autism,0.018,-0.0078
+27,2014,Decrease in Autism,0.0927,-0.0027
+28,2013,Decrease in Autism,0.08369999999999998,0.0001
+29,2012,Decrease in Autism,0.14840000000000003,0.0037
+30,2011,Decrease in Autism,-0.0154,-0.001
+31,2010,Decrease in Autism,0.28359999999999996,0.0138
+32,2009,Decrease in Autism,0.23890000000000003,0.0096
+33,2008,Decrease in Autism,0.149,0.0092
+34,2007,Decrease in Autism,0.15599999999999997,0.0111
+35,2006,Decrease in Autism,,
+36,2017,Life Expectancy,-0.030199999999999998,-0.0003
+37,2016,Life Expectancy,0.008,-0.0003
+38,2015,Life Expectancy,0.018,-0.0002
+39,2014,Life Expectancy,0.0927,0.0002
+40,2013,Life Expectancy,0.08369999999999998,0.0006
+41,2012,Life Expectancy,0.14840000000000003,0.0011
+42,2011,Life Expectancy,-0.0154,0.0016
+43,2010,Life Expectancy,0.28359999999999996,0.0021
+44,2009,Life Expectancy,0.23890000000000003,0.0024
+45,2008,Life Expectancy,0.149,0.0026
+46,2007,Life Expectancy,0.15599999999999997,0.0027
+47,2006,Life Expectancy,,
+48,2017,Decrease in Air Pollution,-0.030199999999999998,-0.001
+49,2016,Decrease in Air Pollution,0.008,0.058
+50,2015,Decrease in Air Pollution,0.018,0.0156
+51,2014,Decrease in Air Pollution,0.0927,0.0475
+52,2013,Decrease in Air Pollution,0.08369999999999998,0.0318
+53,2012,Decrease in Air Pollution,0.14840000000000003,0.0604
+54,2011,Decrease in Air Pollution,-0.0154,-0.0191
+55,2010,Decrease in Air Pollution,0.28359999999999996,0.0397
+56,2009,Decrease in Air Pollution,0.23890000000000003,0.029
+57,2008,Decrease in Air Pollution,0.149,0.0179
+58,2007,Decrease in Air Pollution,0.15599999999999997,0.0309
+59,2006,Decrease in Air Pollution,,
+60,2017,Decrease in Vaccine Preventable Disease,-0.030199999999999998,-0.0278
+61,2016,Decrease in Vaccine Preventable Disease,0.008,-0.0472
+62,2015,Decrease in Vaccine Preventable Disease,0.018,-0.0161
+63,2014,Decrease in Vaccine Preventable Disease,0.0927,0.0013
+64,2013,Decrease in Vaccine Preventable Disease,0.08369999999999998,-0.0037
+65,2012,Decrease in Vaccine Preventable Disease,0.14840000000000003,0.0228
+66,2011,Decrease in Vaccine Preventable Disease,-0.0154,0.0153
+67,2010,Decrease in Vaccine Preventable Disease,0.28359999999999996,0.0565
+68,2009,Decrease in Vaccine Preventable Disease,0.23890000000000003,0.0529
+69,2008,Decrease in Vaccine Preventable Disease,0.149,0.0568
+70,2007,Decrease in Vaccine Preventable Disease,0.15599999999999997,0.0914
+71,2006,Decrease in Vaccine Preventable Disease,,
+72,2017,Decrease in Suicide,-0.030199999999999998,0.0122
+73,2016,Decrease in Suicide,0.008,0.0415
+74,2015,Decrease in Suicide,0.018,0.0364
+75,2014,Decrease in Suicide,0.0927,0.0349
+76,2013,Decrease in Suicide,0.08369999999999998,0.0298
+77,2012,Decrease in Suicide,0.14840000000000003,0.0251
+78,2011,Decrease in Suicide,-0.0154,-0.0025
+79,2010,Decrease in Suicide,0.28359999999999996,0.029
+80,2009,Decrease in Suicide,0.23890000000000003,0.0176
+81,2008,Decrease in Suicide,0.149,-0.0297
+82,2007,Decrease in Suicide,0.15599999999999997,-0.0581
+83,2006,Decrease in Suicide,,
+84,2017,Decrease in Death by Unsafe Drinking Water,-0.030199999999999998,0.0141
+85,2016,Decrease in Death by Unsafe Drinking Water,0.008,0.0335
+86,2015,Decrease in Death by Unsafe Drinking Water,0.018,0.0243
+87,2014,Decrease in Death by Unsafe Drinking Water,0.0927,0.0253
+88,2013,Decrease in Death by Unsafe Drinking Water,0.08369999999999998,0.0186
+89,2012,Decrease in Death by Unsafe Drinking Water,0.14840000000000003,0.0197
+90,2011,Decrease in Death by Unsafe Drinking Water,-0.0154,-0.0085
+91,2010,Decrease in Death by Unsafe Drinking Water,0.28359999999999996,0.0762
+92,2009,Decrease in Death by Unsafe Drinking Water,0.23890000000000003,0.0654
+93,2008,Decrease in Death by Unsafe Drinking Water,0.149,0.0232
+94,2007,Decrease in Death by Unsafe Drinking Water,0.15599999999999997,-0.0009
+95,2006,Decrease in Death by Unsafe Drinking Water,,
+96,2017,Decrease in Air Pollution,-0.030199999999999998,-0.001
+97,2016,Decrease in Air Pollution,0.008,0.058
+98,2015,Decrease in Air Pollution,0.018,0.0156
+99,2014,Decrease in Air Pollution,0.0927,0.0475
+100,2013,Decrease in Air Pollution,0.08369999999999998,0.0318
+101,2012,Decrease in Air Pollution,0.14840000000000003,0.0604
+102,2011,Decrease in Air Pollution,-0.0154,-0.0191
+103,2010,Decrease in Air Pollution,0.28359999999999996,0.0397
+104,2009,Decrease in Air Pollution,0.23890000000000003,0.029
+105,2008,Decrease in Air Pollution,0.149,0.0179
+106,2007,Decrease in Air Pollution,0.15599999999999997,0.0309
+107,2006,Decrease in Air Pollution,,
+108,2017,Decrease in Death by Unsanitary Conditions,-0.030199999999999998,0.0004
+109,2016,Decrease in Death by Unsanitary Conditions,0.008,-0.0269
+110,2015,Decrease in Death by Unsanitary Conditions,0.018,-0.0256
+111,2014,Decrease in Death by Unsanitary Conditions,0.0927,-0.0128
+112,2013,Decrease in Death by Unsanitary Conditions,0.08369999999999998,-0.0035
+113,2012,Decrease in Death by Unsanitary Conditions,0.14840000000000003,-0.0041
+114,2011,Decrease in Death by Unsanitary Conditions,-0.0154,-0.017
+115,2010,Decrease in Death by Unsanitary Conditions,0.28359999999999996,0.0077
+116,2009,Decrease in Death by Unsanitary Conditions,0.23890000000000003,-0.0064
+117,2008,Decrease in Death by Unsanitary Conditions,0.149,-0.0075
+118,2007,Decrease in Death by Unsanitary Conditions,0.15599999999999997,-0.0037
+119,2006,Decrease in Death by Unsanitary Conditions,,
+120,2017,Decrease in HIV Incidences,-0.030199999999999998,-0.0582
+121,2016,Decrease in HIV Incidences,0.008,-0.0531
+122,2015,Decrease in HIV Incidences,0.018,-0.0467
+123,2014,Decrease in HIV Incidences,0.0927,-0.0405
+124,2013,Decrease in HIV Incidences,0.08369999999999998,-0.032
+125,2012,Decrease in HIV Incidences,0.14840000000000003,-0.0226
+126,2011,Decrease in HIV Incidences,-0.0154,-0.013
+127,2010,Decrease in HIV Incidences,0.28359999999999996,0.0073
+128,2009,Decrease in HIV Incidences,0.23890000000000003,0.0261
+129,2008,Decrease in HIV Incidences,0.149,0.0322
+130,2007,Decrease in HIV Incidences,0.15599999999999997,0.0274
+131,2006,Decrease in HIV Incidences,,
+132,2017,Decrease in TB Incidences,-0.030199999999999998,0.0409
+133,2016,Decrease in TB Incidences,0.008,0.038
+134,2015,Decrease in TB Incidences,0.018,0.0352
+135,2014,Decrease in TB Incidences,0.0927,0.0324
+136,2013,Decrease in TB Incidences,0.08369999999999998,0.0289
+137,2012,Decrease in TB Incidences,0.14840000000000003,0.025
+138,2011,Decrease in TB Incidences,-0.0154,0.0214
+139,2010,Decrease in TB Incidences,0.28359999999999996,0.0235
+140,2009,Decrease in TB Incidences,0.23890000000000003,0.0302
+141,2008,Decrease in TB Incidences,0.149,0.0331
+142,2007,Decrease in TB Incidences,0.15599999999999997,0.0339
+143,2006,Decrease in TB Incidences,,
