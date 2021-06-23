@@ -1,217 +1,265 @@
 ,Year,Factor,Total,Score
-0,2017,Human Development Index,122.98000000000002,2.55
-1,2016,Human Development Index,120.05,2.33
-2,2015,Human Development Index,115.82,2.11
-3,2014,Human Development Index,116.85,1.8900000000000001
-4,2013,Human Development Index,112.32000000000001,1.66
-5,2012,Human Development Index,104.83999999999999,1.8900000000000001
-6,2011,Human Development Index,88.17999999999999,1.78
-7,2010,Human Development Index,88.71,1.44
-8,2009,Human Development Index,61.720000000000006,1.0
-9,2008,Human Development Index,35.96999999999999,1.0
-10,2007,Human Development Index,22.750000000000004,0.44
+0,2017,Human Development Index,94.34000000000002,2.55
+1,2016,Human Development Index,96.19999999999999,2.33
+2,2015,Human Development Index,99.73999999999998,2.11
+3,2014,Human Development Index,100.23,1.8900000000000001
+4,2013,Human Development Index,94.34000000000002,1.66
+5,2012,Human Development Index,82.55999999999999,1.8900000000000001
+6,2011,Human Development Index,68.78999999999999,1.78
+7,2010,Human Development Index,69.50999999999999,1.44
+8,2009,Human Development Index,54.52,1.0
+9,2008,Human Development Index,33.01,1.0
+10,2007,Human Development Index,22.540000000000003,0.44
 11,2006,Human Development Index,0.0,0.0
-12,2017,Life Satisfaction,122.98000000000002,-2.65
-13,2016,Life Satisfaction,120.05,-5.27
-14,2015,Life Satisfaction,115.82,-4.43
-15,2014,Life Satisfaction,116.85,-0.43
-16,2013,Life Satisfaction,112.32000000000001,0.9400000000000001
-17,2012,Life Satisfaction,104.83999999999999,-2.17
-18,2011,Life Satisfaction,88.17999999999999,-0.9299999999999999
-19,2010,Life Satisfaction,88.71,-0.25
-20,2009,Life Satisfaction,61.720000000000006,-0.33
-21,2008,Life Satisfaction,35.96999999999999,1.37
-22,2007,Life Satisfaction,22.750000000000004,4.61
+12,2017,Life Satisfaction,94.34000000000002,-2.65
+13,2016,Life Satisfaction,96.19999999999999,-5.27
+14,2015,Life Satisfaction,99.73999999999998,-4.43
+15,2014,Life Satisfaction,100.23,-0.43
+16,2013,Life Satisfaction,94.34000000000002,0.9400000000000001
+17,2012,Life Satisfaction,82.55999999999999,-2.17
+18,2011,Life Satisfaction,68.78999999999999,-0.9299999999999999
+19,2010,Life Satisfaction,69.50999999999999,-0.25
+20,2009,Life Satisfaction,54.52,-0.33
+21,2008,Life Satisfaction,33.01,1.37
+22,2007,Life Satisfaction,22.540000000000003,4.61
 23,2006,Life Satisfaction,0.0,-0.0
-24,2017,Decrease in Cancer Deaths,122.98000000000002,8.73
-25,2016,Decrease in Cancer Deaths,120.05,9.16
-26,2015,Decrease in Cancer Deaths,115.82,10.51
-27,2014,Decrease in Cancer Deaths,116.85,10.16
-28,2013,Decrease in Cancer Deaths,112.32000000000001,9.59
-29,2012,Decrease in Cancer Deaths,104.83999999999999,8.58
-30,2011,Decrease in Cancer Deaths,88.17999999999999,7.249999999999999
-31,2010,Decrease in Cancer Deaths,88.71,6.58
-32,2009,Decrease in Cancer Deaths,61.720000000000006,4.25
-33,2008,Decrease in Cancer Deaths,35.96999999999999,3.0
-34,2007,Decrease in Cancer Deaths,22.750000000000004,1.9
+24,2017,Decrease in Cancer Deaths,94.34000000000002,8.73
+25,2016,Decrease in Cancer Deaths,96.19999999999999,9.16
+26,2015,Decrease in Cancer Deaths,99.73999999999998,10.51
+27,2014,Decrease in Cancer Deaths,100.23,10.16
+28,2013,Decrease in Cancer Deaths,94.34000000000002,9.59
+29,2012,Decrease in Cancer Deaths,82.55999999999999,8.58
+30,2011,Decrease in Cancer Deaths,68.78999999999999,7.249999999999999
+31,2010,Decrease in Cancer Deaths,69.50999999999999,6.58
+32,2009,Decrease in Cancer Deaths,54.52,4.25
+33,2008,Decrease in Cancer Deaths,33.01,3.0
+34,2007,Decrease in Cancer Deaths,22.540000000000003,1.9
 35,2006,Decrease in Cancer Deaths,0.0,-0.0
-36,2017,Decrease in Cancer Incidences,122.98000000000002,0.08
-37,2016,Decrease in Cancer Incidences,120.05,0.36
-38,2015,Decrease in Cancer Incidences,115.82,1.0
-39,2014,Decrease in Cancer Incidences,116.85,1.0999999999999999
-40,2013,Decrease in Cancer Incidences,112.32000000000001,1.02
-41,2012,Decrease in Cancer Incidences,104.83999999999999,0.8099999999999999
-42,2011,Decrease in Cancer Incidences,88.17999999999999,0.52
-43,2010,Decrease in Cancer Incidences,88.71,0.51
-44,2009,Decrease in Cancer Incidences,61.720000000000006,0.16
-45,2008,Decrease in Cancer Incidences,35.96999999999999,0.22999999999999998
-46,2007,Decrease in Cancer Incidences,22.750000000000004,0.22999999999999998
+36,2017,Decrease in Cancer Incidences,94.34000000000002,0.08
+37,2016,Decrease in Cancer Incidences,96.19999999999999,0.36
+38,2015,Decrease in Cancer Incidences,99.73999999999998,1.0
+39,2014,Decrease in Cancer Incidences,100.23,1.0999999999999999
+40,2013,Decrease in Cancer Incidences,94.34000000000002,1.02
+41,2012,Decrease in Cancer Incidences,82.55999999999999,0.8099999999999999
+42,2011,Decrease in Cancer Incidences,68.78999999999999,0.52
+43,2010,Decrease in Cancer Incidences,69.50999999999999,0.51
+44,2009,Decrease in Cancer Incidences,54.52,0.16
+45,2008,Decrease in Cancer Incidences,33.01,0.22999999999999998
+46,2007,Decrease in Cancer Incidences,22.540000000000003,0.22999999999999998
 47,2006,Decrease in Cancer Incidences,0.0,-0.0
-48,2017,Decrease in Autism,122.98000000000002,1.9300000000000002
-49,2016,Decrease in Autism,120.05,2.22
-50,2015,Decrease in Autism,115.82,3.56
-51,2014,Decrease in Autism,116.85,4.31
-52,2013,Decrease in Autism,112.32000000000001,4.569999999999999
-53,2012,Decrease in Autism,104.83999999999999,4.5600000000000005
-54,2011,Decrease in Autism,88.17999999999999,4.21
-55,2010,Decrease in Autism,88.71,4.3
-56,2009,Decrease in Autism,61.720000000000006,2.96
-57,2008,Decrease in Autism,35.96999999999999,2.02
-58,2007,Decrease in Autism,22.750000000000004,1.11
+48,2017,Decrease in Autism,94.34000000000002,1.9300000000000002
+49,2016,Decrease in Autism,96.19999999999999,2.22
+50,2015,Decrease in Autism,99.73999999999998,3.56
+51,2014,Decrease in Autism,100.23,4.31
+52,2013,Decrease in Autism,94.34000000000002,4.569999999999999
+53,2012,Decrease in Autism,82.55999999999999,4.5600000000000005
+54,2011,Decrease in Autism,68.78999999999999,4.21
+55,2010,Decrease in Autism,69.50999999999999,4.3
+56,2009,Decrease in Autism,54.52,2.96
+57,2008,Decrease in Autism,33.01,2.02
+58,2007,Decrease in Autism,22.540000000000003,1.11
 59,2006,Decrease in Autism,0.0,0.0
-60,2017,Life Expectancy,122.98000000000002,1.24
-61,2016,Life Expectancy,120.05,1.27
-62,2015,Life Expectancy,115.82,1.31
-63,2014,Life Expectancy,116.85,1.32
-64,2013,Life Expectancy,112.32000000000001,1.31
-65,2012,Life Expectancy,104.83999999999999,1.25
-66,2011,Life Expectancy,88.17999999999999,1.1400000000000001
-67,2010,Life Expectancy,88.71,0.98
-68,2009,Life Expectancy,61.720000000000006,0.77
-69,2008,Life Expectancy,35.96999999999999,0.53
-70,2007,Life Expectancy,22.750000000000004,0.27
+60,2017,Life Expectancy,94.34000000000002,1.24
+61,2016,Life Expectancy,96.19999999999999,1.27
+62,2015,Life Expectancy,99.73999999999998,1.31
+63,2014,Life Expectancy,100.23,1.32
+64,2013,Life Expectancy,94.34000000000002,1.31
+65,2012,Life Expectancy,82.55999999999999,1.25
+66,2011,Life Expectancy,68.78999999999999,1.1400000000000001
+67,2010,Life Expectancy,69.50999999999999,0.98
+68,2009,Life Expectancy,54.52,0.77
+69,2008,Life Expectancy,33.01,0.53
+70,2007,Life Expectancy,22.540000000000003,0.27
 71,2006,Life Expectancy,0.0,0.0
-72,2017,Decrease in Air Pollution,122.98000000000002,27.250000000000004
-73,2016,Decrease in Air Pollution,120.05,27.32
-74,2015,Decrease in Air Pollution,115.82,22.85
-75,2014,Decrease in Air Pollution,116.85,21.62
-76,2013,Decrease in Air Pollution,112.32000000000001,17.72
-77,2012,Decrease in Air Pollution,104.83999999999999,15.010000000000002
-78,2011,Decrease in Air Pollution,88.17999999999999,9.55
-79,2010,Decrease in Air Pollution,88.71,11.25
-80,2009,Decrease in Air Pollution,61.720000000000006,7.580000000000001
-81,2008,Decrease in Air Pollution,35.96999999999999,4.82
-82,2007,Decrease in Air Pollution,22.750000000000004,3.09
+72,2017,Decrease in Air Pollution,94.34000000000002,27.250000000000004
+73,2016,Decrease in Air Pollution,96.19999999999999,27.32
+74,2015,Decrease in Air Pollution,99.73999999999998,22.85
+75,2014,Decrease in Air Pollution,100.23,21.62
+76,2013,Decrease in Air Pollution,94.34000000000002,17.72
+77,2012,Decrease in Air Pollution,82.55999999999999,15.010000000000002
+78,2011,Decrease in Air Pollution,68.78999999999999,9.55
+79,2010,Decrease in Air Pollution,69.50999999999999,11.25
+80,2009,Decrease in Air Pollution,54.52,7.580000000000001
+81,2008,Decrease in Air Pollution,33.01,4.82
+82,2007,Decrease in Air Pollution,22.540000000000003,3.09
 83,2006,Decrease in Air Pollution,0.0,0.0
-84,2017,Decrease in Vaccine Preventable Disease,122.98000000000002,19.220000000000002
-85,2016,Decrease in Vaccine Preventable Disease,120.05,21.4
-86,2015,Decrease in Vaccine Preventable Disease,115.82,24.95
-87,2014,Decrease in Vaccine Preventable Disease,116.85,26.14
-88,2013,Decrease in Vaccine Preventable Disease,112.32000000000001,26.040000000000003
-89,2012,Decrease in Vaccine Preventable Disease,104.83999999999999,26.31
-90,2011,Decrease in Vaccine Preventable Disease,88.17999999999999,24.59
-91,2010,Decrease in Vaccine Preventable Disease,88.71,23.419999999999998
-92,2009,Decrease in Vaccine Preventable Disease,61.720000000000006,18.84
-93,2008,Decrease in Vaccine Preventable Disease,35.96999999999999,14.299999999999999
-94,2007,Decrease in Vaccine Preventable Disease,22.750000000000004,9.139999999999999
+84,2017,Decrease in Vaccine Preventable Disease,94.34000000000002,19.220000000000002
+85,2016,Decrease in Vaccine Preventable Disease,96.19999999999999,21.4
+86,2015,Decrease in Vaccine Preventable Disease,99.73999999999998,24.95
+87,2014,Decrease in Vaccine Preventable Disease,100.23,26.14
+88,2013,Decrease in Vaccine Preventable Disease,94.34000000000002,26.040000000000003
+89,2012,Decrease in Vaccine Preventable Disease,82.55999999999999,26.31
+90,2011,Decrease in Vaccine Preventable Disease,68.78999999999999,24.59
+91,2010,Decrease in Vaccine Preventable Disease,69.50999999999999,23.419999999999998
+92,2009,Decrease in Vaccine Preventable Disease,54.52,18.84
+93,2008,Decrease in Vaccine Preventable Disease,33.01,14.299999999999999
+94,2007,Decrease in Vaccine Preventable Disease,22.540000000000003,9.139999999999999
 95,2006,Decrease in Vaccine Preventable Disease,0.0,-0.0
-96,2017,Decrease in Suicide,122.98000000000002,13.23
-97,2016,Decrease in Suicide,120.05,12.15
-98,2015,Decrease in Suicide,115.82,8.35
-99,2014,Decrease in Suicide,116.85,4.88
-100,2013,Decrease in Suicide,112.32000000000001,1.4500000000000002
-101,2012,Decrease in Suicide,104.83999999999999,-1.58
-102,2011,Decrease in Suicide,88.17999999999999,-4.2
-103,2010,Decrease in Suicide,88.71,-3.94
-104,2009,Decrease in Suicide,61.720000000000006,-7.04
-105,2008,Decrease in Suicide,35.96999999999999,-8.95
-106,2007,Decrease in Suicide,22.750000000000004,-5.81
+96,2017,Decrease in Suicide,94.34000000000002,13.23
+97,2016,Decrease in Suicide,96.19999999999999,12.15
+98,2015,Decrease in Suicide,99.73999999999998,8.35
+99,2014,Decrease in Suicide,100.23,4.88
+100,2013,Decrease in Suicide,94.34000000000002,1.4500000000000002
+101,2012,Decrease in Suicide,82.55999999999999,-1.58
+102,2011,Decrease in Suicide,68.78999999999999,-4.2
+103,2010,Decrease in Suicide,69.50999999999999,-3.94
+104,2009,Decrease in Suicide,54.52,-7.04
+105,2008,Decrease in Suicide,33.01,-8.95
+106,2007,Decrease in Suicide,22.540000000000003,-5.81
 107,2006,Decrease in Suicide,0.0,0.0
-108,2017,Decrease in Death by Unsafe Drinking Water,122.98000000000002,25.790000000000003
-109,2016,Decrease in Death by Unsafe Drinking Water,120.05,24.740000000000002
-110,2015,Decrease in Death by Unsafe Drinking Water,115.82,22.12
-111,2014,Decrease in Death by Unsafe Drinking Water,116.85,20.18
-112,2013,Decrease in Death by Unsafe Drinking Water,112.32000000000001,18.11
-113,2012,Decrease in Death by Unsafe Drinking Water,104.83999999999999,16.56
-114,2011,Decrease in Death by Unsafe Drinking Water,88.17999999999999,14.879999999999999
-115,2010,Decrease in Death by Unsafe Drinking Water,88.71,15.6
-116,2009,Decrease in Death by Unsafe Drinking Water,61.720000000000006,8.63
-117,2008,Decrease in Death by Unsafe Drinking Water,35.96999999999999,2.2399999999999998
-118,2007,Decrease in Death by Unsafe Drinking Water,22.750000000000004,-0.09
+108,2017,Decrease in Death by Unsafe Drinking Water,94.34000000000002,25.790000000000003
+109,2016,Decrease in Death by Unsafe Drinking Water,96.19999999999999,24.740000000000002
+110,2015,Decrease in Death by Unsafe Drinking Water,99.73999999999998,22.12
+111,2014,Decrease in Death by Unsafe Drinking Water,100.23,20.18
+112,2013,Decrease in Death by Unsafe Drinking Water,94.34000000000002,18.11
+113,2012,Decrease in Death by Unsafe Drinking Water,82.55999999999999,16.56
+114,2011,Decrease in Death by Unsafe Drinking Water,68.78999999999999,14.879999999999999
+115,2010,Decrease in Death by Unsafe Drinking Water,69.50999999999999,15.6
+116,2009,Decrease in Death by Unsafe Drinking Water,54.52,8.63
+117,2008,Decrease in Death by Unsafe Drinking Water,33.01,2.2399999999999998
+118,2007,Decrease in Death by Unsafe Drinking Water,22.540000000000003,-0.09
 119,2006,Decrease in Death by Unsafe Drinking Water,0.0,-0.0
-120,2017,Decrease in Air Pollution,122.98000000000002,27.250000000000004
-121,2016,Decrease in Air Pollution,120.05,27.32
-122,2015,Decrease in Air Pollution,115.82,22.85
-123,2014,Decrease in Air Pollution,116.85,21.62
-124,2013,Decrease in Air Pollution,112.32000000000001,17.72
-125,2012,Decrease in Air Pollution,104.83999999999999,15.010000000000002
-126,2011,Decrease in Air Pollution,88.17999999999999,9.55
-127,2010,Decrease in Air Pollution,88.71,11.25
-128,2009,Decrease in Air Pollution,61.720000000000006,7.580000000000001
-129,2008,Decrease in Air Pollution,35.96999999999999,4.82
-130,2007,Decrease in Air Pollution,22.750000000000004,3.09
+120,2017,Decrease in Air Pollution,94.34000000000002,27.250000000000004
+121,2016,Decrease in Air Pollution,96.19999999999999,27.32
+122,2015,Decrease in Air Pollution,99.73999999999998,22.85
+123,2014,Decrease in Air Pollution,100.23,21.62
+124,2013,Decrease in Air Pollution,94.34000000000002,17.72
+125,2012,Decrease in Air Pollution,82.55999999999999,15.010000000000002
+126,2011,Decrease in Air Pollution,68.78999999999999,9.55
+127,2010,Decrease in Air Pollution,69.50999999999999,11.25
+128,2009,Decrease in Air Pollution,54.52,7.580000000000001
+129,2008,Decrease in Air Pollution,33.01,4.82
+130,2007,Decrease in Air Pollution,22.540000000000003,3.09
 131,2006,Decrease in Air Pollution,0.0,0.0
-132,2017,Decrease in Death by Unsanitary Conditions,122.98000000000002,-10.34
-133,2016,Decrease in Death by Unsanitary Conditions,120.05,-10.39
-134,2015,Decrease in Death by Unsanitary Conditions,115.82,-7.489999999999999
-135,2014,Decrease in Death by Unsanitary Conditions,116.85,-4.81
-136,2013,Decrease in Death by Unsanitary Conditions,112.32000000000001,-3.49
-137,2012,Decrease in Death by Unsanitary Conditions,104.83999999999999,-3.1199999999999997
-138,2011,Decrease in Death by Unsanitary Conditions,88.17999999999999,-2.7
-139,2010,Decrease in Death by Unsanitary Conditions,88.71,-0.98
-140,2009,Decrease in Death by Unsanitary Conditions,61.720000000000006,-1.77
-141,2008,Decrease in Death by Unsanitary Conditions,35.96999999999999,-1.13
-142,2007,Decrease in Death by Unsanitary Conditions,22.750000000000004,-0.37
+132,2017,Decrease in Death by Unsanitary Conditions,94.34000000000002,-10.34
+133,2016,Decrease in Death by Unsanitary Conditions,96.19999999999999,-10.39
+134,2015,Decrease in Death by Unsanitary Conditions,99.73999999999998,-7.489999999999999
+135,2014,Decrease in Death by Unsanitary Conditions,100.23,-4.81
+136,2013,Decrease in Death by Unsanitary Conditions,94.34000000000002,-3.49
+137,2012,Decrease in Death by Unsanitary Conditions,82.55999999999999,-3.1199999999999997
+138,2011,Decrease in Death by Unsanitary Conditions,68.78999999999999,-2.7
+139,2010,Decrease in Death by Unsanitary Conditions,69.50999999999999,-0.98
+140,2009,Decrease in Death by Unsanitary Conditions,54.52,-1.77
+141,2008,Decrease in Death by Unsanitary Conditions,33.01,-1.13
+142,2007,Decrease in Death by Unsanitary Conditions,22.540000000000003,-0.37
 143,2006,Decrease in Death by Unsanitary Conditions,0.0,0.0
-144,2017,Decrease in HIV Incidences,122.98000000000002,-18.060000000000002
-145,2016,Decrease in HIV Incidences,120.05,-11.57
-146,2015,Decrease in HIV Incidences,115.82,-5.94
-147,2014,Decrease in HIV Incidences,116.85,-1.22
-148,2013,Decrease in HIV Incidences,112.32000000000001,2.7199999999999998
-149,2012,Decrease in HIV Incidences,104.83999999999999,5.74
-150,2011,Decrease in HIV Incidences,88.17999999999999,7.82
-151,2010,Decrease in HIV Incidences,88.71,9.0
-152,2009,Decrease in HIV Incidences,61.720000000000006,8.33
-153,2008,Decrease in HIV Incidences,35.96999999999999,5.87
-154,2007,Decrease in HIV Incidences,22.750000000000004,2.74
+144,2017,Decrease in HIV Incidences,94.34000000000002,-18.060000000000002
+145,2016,Decrease in HIV Incidences,96.19999999999999,-11.57
+146,2015,Decrease in HIV Incidences,99.73999999999998,-5.94
+147,2014,Decrease in HIV Incidences,100.23,-1.22
+148,2013,Decrease in HIV Incidences,94.34000000000002,2.7199999999999998
+149,2012,Decrease in HIV Incidences,82.55999999999999,5.74
+150,2011,Decrease in HIV Incidences,68.78999999999999,7.82
+151,2010,Decrease in HIV Incidences,69.50999999999999,9.0
+152,2009,Decrease in HIV Incidences,54.52,8.33
+153,2008,Decrease in HIV Incidences,33.01,5.87
+154,2007,Decrease in HIV Incidences,22.540000000000003,2.74
 155,2006,Decrease in HIV Incidences,0.0,-0.0
-156,2017,Decrease in TB Incidences,122.98000000000002,29.4
-157,2016,Decrease in TB Incidences,120.05,26.39
-158,2015,Decrease in TB Incidences,115.82,23.48
-159,2014,Decrease in TB Incidences,116.85,20.69
-160,2013,Decrease in TB Incidences,112.32000000000001,18.029999999999998
-161,2012,Decrease in TB Incidences,104.83999999999999,15.590000000000002
-162,2011,Decrease in TB Incidences,88.17999999999999,13.43
-163,2010,Decrease in TB Incidences,88.71,11.53
-164,2009,Decrease in TB Incidences,61.720000000000006,9.41
-165,2008,Decrease in TB Incidences,35.96999999999999,6.58
-166,2007,Decrease in TB Incidences,22.750000000000004,3.39
+156,2017,Decrease in TB Incidences,94.34000000000002,29.4
+157,2016,Decrease in TB Incidences,96.19999999999999,26.39
+158,2015,Decrease in TB Incidences,99.73999999999998,23.48
+159,2014,Decrease in TB Incidences,100.23,20.69
+160,2013,Decrease in TB Incidences,94.34000000000002,18.029999999999998
+161,2012,Decrease in TB Incidences,82.55999999999999,15.590000000000002
+162,2011,Decrease in TB Incidences,68.78999999999999,13.43
+163,2010,Decrease in TB Incidences,69.50999999999999,11.53
+164,2009,Decrease in TB Incidences,54.52,9.41
+165,2008,Decrease in TB Incidences,33.01,6.58
+166,2007,Decrease in TB Incidences,22.540000000000003,3.39
 167,2006,Decrease in TB Incidences,0.0,-0.0
-168,2017,GDP,122.98000000000002,6.97
-169,2016,GDP,120.05,5.0
-170,2015,GDP,115.82,4.16
-171,2014,GDP,116.85,2.33
-172,2013,GDP,112.32000000000001,0.74
-173,2012,GDP,104.83999999999999,-0.19
-174,2011,GDP,88.17999999999999,-1.6099999999999999
-175,2010,GDP,88.71,-2.42
-176,2009,GDP,61.720000000000006,-4.03
-177,2008,GDP,35.96999999999999,-0.42
-178,2007,GDP,22.750000000000004,0.8200000000000001
+168,2017,GDP,94.34000000000002,6.97
+169,2016,GDP,96.19999999999999,5.0
+170,2015,GDP,99.73999999999998,4.16
+171,2014,GDP,100.23,2.33
+172,2013,GDP,94.34000000000002,0.74
+173,2012,GDP,82.55999999999999,-0.19
+174,2011,GDP,68.78999999999999,-1.6099999999999999
+175,2010,GDP,69.50999999999999,-2.42
+176,2009,GDP,54.52,-4.03
+177,2008,GDP,33.01,-0.42
+178,2007,GDP,22.540000000000003,0.8200000000000001
 179,2006,GDP,0.0,0.0
-180,2017,Decrease in CO2 Emmisions,122.98000000000002,13.18
-181,2016,Decrease in CO2 Emmisions,120.05,12.540000000000001
-182,2015,Decrease in CO2 Emmisions,115.82,10.549999999999999
-183,2014,Decrease in CO2 Emmisions,116.85,8.09
-184,2013,Decrease in CO2 Emmisions,112.32000000000001,8.870000000000001
-185,2012,Decrease in CO2 Emmisions,104.83999999999999,11.3
-186,2011,Decrease in CO2 Emmisions,88.17999999999999,8.03
-187,2010,Decrease in CO2 Emmisions,88.71,5.83
-188,2009,Decrease in CO2 Emmisions,61.720000000000006,9.25
-189,2008,Decrease in CO2 Emmisions,35.96999999999999,1.9900000000000002
-190,2007,Decrease in CO2 Emmisions,22.750000000000004,-1.28
+180,2017,Decrease in CO2 Emmisions,94.34000000000002,13.18
+181,2016,Decrease in CO2 Emmisions,96.19999999999999,12.540000000000001
+182,2015,Decrease in CO2 Emmisions,99.73999999999998,10.549999999999999
+183,2014,Decrease in CO2 Emmisions,100.23,8.09
+184,2013,Decrease in CO2 Emmisions,94.34000000000002,8.870000000000001
+185,2012,Decrease in CO2 Emmisions,82.55999999999999,11.3
+186,2011,Decrease in CO2 Emmisions,68.78999999999999,8.03
+187,2010,Decrease in CO2 Emmisions,69.50999999999999,5.83
+188,2009,Decrease in CO2 Emmisions,54.52,9.25
+189,2008,Decrease in CO2 Emmisions,33.01,1.9900000000000002
+190,2007,Decrease in CO2 Emmisions,22.540000000000003,-1.28
 191,2006,Decrease in CO2 Emmisions,0.0,-0.0
-192,2017,Decrease in Child Mortality,122.98000000000002,16.46
-193,2016,Decrease in Child Mortality,120.05,15.190000000000001
-194,2015,Decrease in Child Mortality,115.82,13.919999999999998
-195,2014,Decrease in Child Mortality,116.85,12.659999999999998
-196,2013,Decrease in Child Mortality,112.32000000000001,11.39
-197,2012,Decrease in Child Mortality,104.83999999999999,10.13
-198,2011,Decrease in Child Mortality,88.17999999999999,8.86
-199,2010,Decrease in Child Mortality,88.71,7.59
-200,2009,Decrease in Child Mortality,61.720000000000006,5.06
-201,2008,Decrease in Child Mortality,35.96999999999999,3.8
-202,2007,Decrease in Child Mortality,22.750000000000004,2.53
+192,2017,Decrease in Child Mortality,94.34000000000002,16.46
+193,2016,Decrease in Child Mortality,96.19999999999999,15.190000000000001
+194,2015,Decrease in Child Mortality,99.73999999999998,13.919999999999998
+195,2014,Decrease in Child Mortality,100.23,12.659999999999998
+196,2013,Decrease in Child Mortality,94.34000000000002,11.39
+197,2012,Decrease in Child Mortality,82.55999999999999,10.13
+198,2011,Decrease in Child Mortality,68.78999999999999,8.86
+199,2010,Decrease in Child Mortality,69.50999999999999,7.59
+200,2009,Decrease in Child Mortality,54.52,5.06
+201,2008,Decrease in Child Mortality,33.01,3.8
+202,2007,Decrease in Child Mortality,22.540000000000003,2.53
 203,2006,Decrease in Child Mortality,0.0,-0.0
-204,2017,Decrease in Malnutrition,122.98000000000002,-12.0
-205,2016,Decrease in Malnutrition,120.05,-12.790000000000001
-206,2015,Decrease in Malnutrition,115.82,-15.190000000000001
-207,2014,Decrease in Malnutrition,116.85,-12.06
-208,2013,Decrease in Malnutrition,112.32000000000001,-8.35
-209,2012,Decrease in Malnutrition,104.83999999999999,-5.83
-210,2011,Decrease in Malnutrition,88.17999999999999,-4.44
-211,2010,Decrease in Malnutrition,88.71,-1.73
-212,2009,Decrease in Malnutrition,61.720000000000006,-1.35
-213,2008,Decrease in Malnutrition,35.96999999999999,-1.28
-214,2007,Decrease in Malnutrition,22.750000000000004,0.03
-215,2006,Decrease in Malnutrition,0.0,0.0
+204,2017,Decrease in Malnutrition,94.34000000000002,12.0
+205,2016,Decrease in Malnutrition,96.19999999999999,12.790000000000001
+206,2015,Decrease in Malnutrition,99.73999999999998,15.190000000000001
+207,2014,Decrease in Malnutrition,100.23,12.06
+208,2013,Decrease in Malnutrition,94.34000000000002,8.35
+209,2012,Decrease in Malnutrition,82.55999999999999,5.83
+210,2011,Decrease in Malnutrition,68.78999999999999,4.44
+211,2010,Decrease in Malnutrition,69.50999999999999,1.73
+212,2009,Decrease in Malnutrition,54.52,1.35
+213,2008,Decrease in Malnutrition,33.01,1.28
+214,2007,Decrease in Malnutrition,22.540000000000003,-0.03
+215,2006,Decrease in Malnutrition,0.0,-0.0
+216,2017,Decrease in Household Debt,94.34000000000002,-23.52
+217,2016,Decrease in Household Debt,96.19999999999999,-22.81
+218,2015,Decrease in Household Debt,99.73999999999998,-22.89
+219,2014,Decrease in Household Debt,100.23,-20.69
+220,2013,Decrease in Household Debt,94.34000000000002,-17.150000000000002
+221,2012,Decrease in Household Debt,82.55999999999999,-18.41
+222,2011,Decrease in Household Debt,68.78999999999999,-13.63
+223,2010,Decrease in Household Debt,69.50999999999999,-8.450000000000001
+224,2009,Decrease in Household Debt,54.52,-3.36
+225,2008,Decrease in Household Debt,33.01,-2.65
+226,2007,Decrease in Household Debt,22.540000000000003,2.16
+227,2006,Decrease in Household Debt,0.0,0.0
+228,2017,Labor Compensation,94.34000000000002,-12.31
+229,2016,Labor Compensation,96.19999999999999,-11.17
+230,2015,Labor Compensation,99.73999999999998,-10.81
+231,2014,Labor Compensation,100.23,-9.77
+232,2013,Labor Compensation,94.34000000000002,-9.16
+233,2012,Labor Compensation,82.55999999999999,-8.7
+234,2011,Labor Compensation,68.78999999999999,-8.32
+235,2010,Labor Compensation,69.50999999999999,-8.28
+236,2009,Labor Compensation,54.52,-5.64
+237,2008,Labor Compensation,33.01,-2.3
+238,2007,Labor Compensation,22.540000000000003,-1.27
+239,2006,Labor Compensation,0.0,-0.0
+240,2017,Decrease in Roadway Accidents,94.34000000000002,-12.31
+241,2016,Decrease in Roadway Accidents,96.19999999999999,-11.17
+242,2015,Decrease in Roadway Accidents,99.73999999999998,-10.81
+243,2014,Decrease in Roadway Accidents,100.23,-9.77
+244,2013,Decrease in Roadway Accidents,94.34000000000002,-9.16
+245,2012,Decrease in Roadway Accidents,82.55999999999999,-8.7
+246,2011,Decrease in Roadway Accidents,68.78999999999999,-8.32
+247,2010,Decrease in Roadway Accidents,69.50999999999999,-8.28
+248,2009,Decrease in Roadway Accidents,54.52,-5.64
+249,2008,Decrease in Roadway Accidents,33.01,-2.3
+250,2007,Decrease in Roadway Accidents,22.540000000000003,-1.27
+251,2006,Decrease in Roadway Accidents,0.0,-0.0
+252,2017,Decrease in Waste Production,94.34000000000002,-4.5
+253,2016,Decrease in Waste Production,96.19999999999999,-4.279999999999999
+254,2015,Decrease in Waste Production,99.73999999999998,-1.95
+255,2014,Decrease in Waste Production,100.23,-0.51
+256,2013,Decrease in Waste Production,94.34000000000002,0.79
+257,2012,Decrease in Waste Production,82.55999999999999,1.87
+258,2011,Decrease in Waste Production,68.78999999999999,2.0
+259,2010,Decrease in Waste Production,69.50999999999999,2.35
+260,2009,Decrease in Waste Production,54.52,4.74
+261,2008,Decrease in Waste Production,33.01,1.73
+262,2007,Decrease in Waste Production,22.540000000000003,0.22999999999999998
+263,2006,Decrease in Waste Production,0.0,-0.0
