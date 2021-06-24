@@ -32,8 +32,8 @@ This quote as well as a podcast made me want to look into the truth of this stat
 4. Currently only 11 years of data covered.
 
 # The Data
-1. Sources can be found [here](').
+1. Sources can be found [here](https://github.com/brendagutman/USA_Prosperity/blob/main/Positive%20Factors.docx).
 2. Caluclations used:<br>
-    a. Rate = 'Current Year' / 'Previous Year' x 100
+    a. Rate = ('Current Year' / 'Previous Year')-1 x 100
     b. Growth = ('Current Year' / 'Start Year(2016)')-1 x 100
     
