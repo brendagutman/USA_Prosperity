@@ -1,4 +1,7 @@
+.assets
 .Data
+.Notebooks
+.data
 .data2
 *.ipynb_checkpoints
 .first
@@ -10,5 +13,5 @@
 .by_yr
 .yr_by_yr
 .yr_frm_st
-.Dash2
+
 

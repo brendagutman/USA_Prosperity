@@ -36,5 +36,5 @@ This quote as well as a podcast made me want to look into the truth of this stat
     a. Rate of Change % = ('Current Year' / 'Previous Year')-1 x 100 <br>
     b. Overall Growth % = ('Current Year' / 'Start Year(2006)')-1 x 100
 
-:information_desk_person:
-## Find the Published Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZmZjYzU1ZTAtNzU2ZS00ODAyLWEyZjctYjcwNmM5OWEyZGVlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9).
+
+## Find the Published Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZmZjYzU1ZTAtNzU2ZS00ODAyLWEyZjctYjcwNmM5OWEyZGVlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9). :information_desk_person:
